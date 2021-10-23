@@ -89,32 +89,32 @@
 					<p>choose a category</p>
 				</div>
 				<div class="cate-new-list">
-					<a href='#' class='cate-new-single'>
+					<a href='store.php' class='cate-new-single'>
+						<img class='small-shit' src='icons/multimedia.png' alt='category img'>
+						<p>electronics</p>
+					</a>
+
+					<a href='store.php' class='cate-new-single'>
 						<img class='small-shit' src='icons/multimedia.png' alt='category img'>
 						<p>multimedia</p>
 					</a>
 
-					<a href='#' class='cate-new-single'>
+					<a href='store.php' class='cate-new-single'>
+						<img class='small-shit' src='icons/multimedia.png' alt='category img'>
+						<p>fashion</p>
+					</a>
+
+					<a href='store.php' class='cate-new-single'>
 						<img class='small-shit' src='icons/multimedia.png' alt='category img'>
 						<p>multimedia</p>
 					</a>
 
-					<a href='#' class='cate-new-single'>
+					<a href='store.php' class='cate-new-single'>
 						<img class='small-shit' src='icons/multimedia.png' alt='category img'>
 						<p>multimedia</p>
 					</a>
 
-					<a href='#' class='cate-new-single'>
-						<img class='small-shit' src='icons/multimedia.png' alt='category img'>
-						<p>multimedia</p>
-					</a>
-
-					<a href='#' class='cate-new-single'>
-						<img class='small-shit' src='icons/multimedia.png' alt='category img'>
-						<p>multimedia</p>
-					</a>
-
-					<a href='#' class='cate-new-single'>
+					<a href='store.php' class='cate-new-single'>
 						<img class='small-shit' src='icons/multimedia.png' alt='category img'>
 						<p>multimedia</p>
 					</a>
@@ -129,7 +129,7 @@
 					
 							<a href='product.php' style='text-decoration: none; color: #191919;' id='product'>
 								<div class='pro-img'>
-											<img src='images/3samsung.jpeg'>
+											<img src='images/samsung.jpeg'>
 									</div>
 								<div id='spec'>
 										<div><p>iPhone 12 Pro Max</p><p>24000 ETB</p>
@@ -167,7 +167,7 @@
 
 							<a href='product.php' style='text-decoration: none; color: #191919;' id='product'>
 								<div class='pro-img'>
-											<img src='images/3samsung.jpeg'>
+											<img src='images/samsunger.jpeg'>
 									</div>
 								<div id='spec'>
 										<div><p>iPhone 12 Pro Max</p><p>24000 ETB</p>
@@ -186,7 +186,7 @@
 
 							<a href='product.php' style='text-decoration: none; color: #191919;' id='product'>
 								<div class='pro-img'>
-											<img src='images/3samsung.jpeg'>
+											<img src='images/dkf.jpeg'>
 									</div>
 								<div id='spec'>
 										<div><p>iPhone 12 Pro Max</p><p>24000 ETB</p>

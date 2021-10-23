@@ -93,7 +93,7 @@
 			<div id="pro-all">
 				<a style='text-decoration: none; color: #191919;' href='#' id='product'>";
 					<div class='pro-img'>
-						<img src='images/3samsung.jpeg'>
+						<img src='images/samsung.jpeg'>
 					</div>";
 					<div id='spec'>
 						<div>
@@ -114,7 +114,7 @@
 				</a>	
 				<a style='text-decoration: none; color: #191919;' href='#' id='product'>";
 					<div class='pro-img'>
-						<img src='images/3samsung.jpeg'>
+						<img src='images/samsunger.jpeg'>
 					</div>";
 					<div id='spec'>
 						<div>
@@ -156,7 +156,7 @@
 				</a>
 				<a style='text-decoration: none; color: #191919;' href='#' id='product'>";
 					<div class='pro-img'>
-						<img src='images/3samsung.jpeg'>
+						<img src='images/dkf.jpeg'>
 					</div>";
 					<div id='spec'>
 						<div>
@@ -198,7 +198,7 @@
 				</a>
 				<a style='text-decoration: none; color: #191919;' href='#' id='product'>";
 					<div class='pro-img'>
-						<img src='images/3samsung.jpeg'>
+						<img src='images/2samsung.jpeg'>
 					</div>";
 					<div id='spec'>
 						<div>
