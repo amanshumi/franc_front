@@ -115,7 +115,7 @@
 			</div>
 
 				<div id='pay-form'><p>Total Price: 5000 ETB</p>
-					<a href='#' id='button'>place order</a></div>
+					<a href='billing.php' id='button'>place order</a></div>
 			
 
 			<script>
