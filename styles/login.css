@@ -1,0 +1,312 @@
+@font-face{
+	font-family: 'material';
+	src: url('fonts/materialicons.ttf');
+}
+
+@font-face{
+	font-family: 'poppins';
+	src: url('fonts/poppins.ttf');
+}
+
+body{
+	background: url('images/background.png');
+	color: #fff;
+	padding: 0px;
+	margin: 0px;
+	font-family: Josefin sans;
+}
+
+#main{
+	padding: 10px;
+}
+
+#main .nav{
+	display: flex;
+	justify-content: space-between;
+	padding: 0px;
+	align-items: center !important;
+	padding: 0px 33px 0px 33px;
+}
+
+#main .nav #brand{
+	/* background: #B629D8;
+	color: #fff;
+	text-align: center;
+	border-radius: 50px; */
+	width: 12%;
+	padding: 0px !important;
+}
+
+.mobile-nav{
+	padding: 10px;
+	font-family: poppins;
+	display: none;
+}
+
+.mobile-nav #navbar{
+	display: flex;
+	flex-direction: column;
+	padding: 5px;
+}
+
+.mobile-nav a{
+	padding: 10px;
+	color: #b3b3b3;
+	text-decoration: none;
+	transition: opacity 0.3s;
+	cursor: pointer;
+	border-bottom: 2px solid #2c2727;
+}
+
+.mobile-nav a:hover {
+	opacity: 0.6;
+}
+
+.mobile-nav .activee{
+	opacity: 0.5;
+}
+
+#main .nav #brand p{
+	color: #fff;
+	text-align: center;
+	font-family: Poppins;
+	font-size: 22px;
+	opacity: 1;
+	background: #B629D8;
+	color: #fff;
+	text-align: center;
+	border-radius: 50px;
+	padding: 11px 39px 11px 39px;
+}
+
+#main .nav #navbar{
+	margin-right: 5%;
+}
+
+#collapse{
+	display: none;
+	cursor: pointer;
+	align-self: center;
+	margin-top: 17px;
+}
+
+@media(max-width: 850px) {
+	#main{
+		padding: 10px;
+	}
+
+	#main .nav{
+		padding: 0px;
+	}
+
+	#main .nav #brand{
+		width: 30%;
+		align-self: flex-start;
+	}
+
+	#brand p{
+		padding: 5px !important;
+	}
+
+	#main .nav #navbar{
+		display: none;
+		margin-top: 80px;
+		flex-direction: column;
+		flex: 1;
+	}
+
+	#main .nav #navbar a{
+		padding: 10px !important;
+		text-decoration: none;
+		color: #7BFFFB;
+		text-align: center;
+		border-radius: 0px;
+		border-color: #292929;
+		margin-top: 5px;
+	}
+
+	.form-con{
+		width: 95% !important;
+		margin: 20px auto;
+	}
+
+	#title{
+		padding: 0px !important;
+	}
+
+	#title h1{
+		font-size: 26px !important;
+		padding: 0px !important;
+	}
+
+	#form-gr form #btn-gr{
+		flex-direction: column;
+		align-items: flex-start !important;
+	}
+
+	#form-gr form #btn-gr button{
+		width: 100% !important;
+		border-radius: 4px !important;
+		margin-top: 20px !important;
+		padding: 15px !important;
+	}
+
+	#btn-g {
+		padding: 10px;
+	}
+
+	#collapse{
+		display: block;
+		align-self: flex-start !important;
+		padding: 10px;
+	}
+}
+
+#main .nav #navbar a{
+	padding: 6px 20px 6px 20px;
+	text-decoration: none;
+	color: #7BFFFB;
+	font-family: poppins;
+}
+
+#main .nav #navbar a:hover{
+	opacity: 0.7;
+	transition: 0.2s;
+}
+
+.form-con{
+	width: 30%;
+	margin: 40px auto;
+	font-family: Poppins;
+}
+
+.form-con #title{
+	padding: 5px;
+	text-align: center;
+}
+
+.form-con #form-gr{
+	padding: 10px;
+}
+
+#form-gr form{
+
+}
+
+#form-gr form #input{
+	display: flex;
+	flex-direction: column;
+}
+
+#form-gr form #input input{
+	padding: 10px;
+	background: #333333;
+	border: none;
+	border-radius: 3px;
+	font-family: Poppins;
+	opacity: 1;
+	color: #fff;
+	transition: opacity 0.2s;
+}
+
+#form-gr form #input input:hover{
+	opacity: 0.5;
+}
+
+#form-gr form #btn-gr{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	align-content: center;
+}
+
+#form-gr form #btn-gr div{
+	display: flex;
+	align-items: center;
+	padding: 10px;
+}
+
+#form-gr form #btn-gr div a{
+	padding: 10px;
+	text-decoration: none;
+	color: #1CE2C7;
+	transition: opacity 0.2s;
+}
+
+#form-gr form #btn-gr div a:hover{
+	opacity: 0.7;
+}
+
+#form-gr form #btn-gr button{
+	padding: 5px;
+	margin-top: 10px;
+	border: none;
+	background: #fff;
+	border-radius: 50px;
+	width: 25%;
+	font-family: Poppins;
+	cursor: pointer;
+	transition: opacity 0.3s;
+}
+
+#form-gr form #btn-gr button:hover{
+	opacity: 0.7;
+}
+
+.active{
+	border: 1px solid #C41B9C;
+	border-radius: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.err-class{
+	display: flex;
+}
+
+.err-class span{
+	padding: 10px;
+	font-size: 13px;
+	color: #ff6666;
+}
+
+.acc-type{
+	margin-top: 10px;
+	display: flex;
+	align-items: center;
+}
+
+.acc-type input{
+	border: 1px solid #ff6666;
+}
+
+#form-gr .acc-type span{
+	margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
