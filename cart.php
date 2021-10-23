@@ -82,7 +82,7 @@
 							</div>
 
 							<div id='cart-product'>
-									<img src='images/1samsung.jpeg'>
+									<img src='images/2samsung.jpeg'>
 							 	<div id='spec'>
 								    	<div><h3>Lenovo Legion</h3><p>quantity: 3 pcs</p><p>price: 23980 ETB</p>
 							 </div>
