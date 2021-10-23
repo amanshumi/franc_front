@@ -127,7 +127,7 @@
 
 				<div id="pro-all">
 					
-							<a href='#' style='text-decoration: none; color: #191919;' id='product'>
+							<a href='product.php' style='text-decoration: none; color: #191919;' id='product'>
 								<div class='pro-img'>
 											<img src='images/3samsung.jpeg'>
 									</div>
@@ -146,7 +146,7 @@
 								</div>
 							</a>
 
-							<a href='#' style='text-decoration: none; color: #191919;' id='product'>
+							<a href='product.php' style='text-decoration: none; color: #191919;' id='product'>
 								<div class='pro-img'>
 											<img src='images/3samsung.jpeg'>
 									</div>
@@ -165,7 +165,7 @@
 								</div>
 							</a>
 
-							<a href='#' style='text-decoration: none; color: #191919;' id='product'>
+							<a href='product.php' style='text-decoration: none; color: #191919;' id='product'>
 								<div class='pro-img'>
 											<img src='images/3samsung.jpeg'>
 									</div>
@@ -184,7 +184,7 @@
 								</div>
 							</a>
 
-							<a href='#' style='text-decoration: none; color: #191919;' id='product'>
+							<a href='product.php' style='text-decoration: none; color: #191919;' id='product'>
 								<div class='pro-img'>
 											<img src='images/3samsung.jpeg'>
 									</div>
@@ -203,7 +203,7 @@
 								</div>
 							</a>
 
-							<a href='#' style='text-decoration: none; color: #191919;' id='product'>
+							<a href='product.php' style='text-decoration: none; color: #191919;' id='product'>
 								<div class='pro-img'>
 											<img src='images/3samsung.jpeg'>
 									</div>
@@ -222,7 +222,26 @@
 								</div>
 							</a>
 
-							<a href='#' style='text-decoration: none; color: #191919;' id='product'>
+							<a href='product.php' style='text-decoration: none; color: #191919;' id='product'>
+								<div class='pro-img'>
+											<img src='images/2samsung.jpeg'>
+									</div>
+								<div id='spec'>
+										<div><p>iPhone 12 Pro Max</p><p>24000 ETB</p>
+								</div><div><p 
+								style='padding: 10px 20px 10px 20px;
+								border-top-left-radius: 50px;
+								border-bottom-left-radius: 50px;
+								background: #B824C2 !important;
+								color: #fff;
+								border: none;
+								font-family: poppins;
+								font-size: 13px;
+								transition: opacity 0.3s;' id='getprov'>view</p></div>
+								</div>
+							</a>
+
+							<a href='product.php' style='text-decoration: none; color: #191919;' id='product'>
 								<div class='pro-img'>
 											<img src='images/3samsung.jpeg'>
 									</div>
@@ -241,28 +260,9 @@
 								</div>
 							</a>
 
-							<a href='#' style='text-decoration: none; color: #191919;' id='product'>
+							<a href='product.php' style='text-decoration: none; color: #191919;' id='product'>
 								<div class='pro-img'>
-											<img src='images/3samsung.jpeg'>
-									</div>
-								<div id='spec'>
-										<div><p>iPhone 12 Pro Max</p><p>24000 ETB</p>
-								</div><div><p 
-								style='padding: 10px 20px 10px 20px;
-								border-top-left-radius: 50px;
-								border-bottom-left-radius: 50px;
-								background: #B824C2 !important;
-								color: #fff;
-								border: none;
-								font-family: poppins;
-								font-size: 13px;
-								transition: opacity 0.3s;' id='getprov'>view</p></div>
-								</div>
-							</a>
-
-							<a href='#' style='text-decoration: none; color: #191919;' id='product'>
-								<div class='pro-img'>
-											<img src='images/3samsung.jpeg'>
+											<img src='images/2samsung.jpeg'>
 									</div>
 								<div id='spec'>
 										<div><p>iPhone 12 Pro Max</p><p>24000 ETB</p>
